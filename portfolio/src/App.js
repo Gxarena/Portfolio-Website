@@ -3,8 +3,14 @@ import Home from "./components/Home"
 import About from './components/About'
 import Skills from './components/Skills'
 import Projects from "./components/Projects";
+import {useEffect} from 'react';
 
 function App() {
+
+  useEffect(() => {
+    document.title = "Gianmarco Arena's Portfolio"
+  }, []);
+
   return (
     <div>
       <Navbar />
