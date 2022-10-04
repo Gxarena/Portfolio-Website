@@ -1,5 +1,5 @@
 import React from 'react'
-import WorkIMG from '../assets/Cactus-Jack-Desktop-Wallpaper.jpg';
+import WorkIMG from '../assets/apexAPP.png';
 
 const Projects = () => {
   return (
@@ -19,15 +19,15 @@ const Projects = () => {
                 
                 {/* Hover Effect */}
                 <div className='opacity-0 group-hover:opacity-100'>
-                    <span className='text-2xl font-bold text-white tracking-wider'>
-                    React JS Application
+                    <span className=' text-2xl font-bold text-white tracking-wider flex justify-center text-center'>
+                    Apex Legends Player Stat Tracker
                     </span>
                     <div className='pt-8 text-center'>
 
                       <a href='/'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                       </a>
-                      <a href='/'>
+                      <a target='_blank'href='https://github.com/Gxarena/Apex-Legends-Tracker'>
                        <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                      </a>
 
