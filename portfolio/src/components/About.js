@@ -16,11 +16,13 @@ const About = () => {
                         <p>Hi. I'm Gianmarco, nice to meet you. Please take a look around.</p>
                     </div>
                     <div>
-                        <p>alpha mega mail hil asdk oaskd asdok oka okok ok
-                            aodk aosdk mk ak 
-                            qasdkmasodio im omimom oasdm jenamkk 
-                            asdnunasdinxnxzkkf mkm inasdin inininaqw
-                            asodki iinin
+                        <p> Currently, I am a 3rd Year Computer Engineering
+                            studnet at Toronto Metropolitian University. I 
+                            have been putting most of my time into furthering
+                            my knowledge of ReactJS to make very functional,
+                            UI friendly apps. With my current coding skills,
+                            I am looking for a co-op internship regarding either
+                            or both front and back end!
                         </p>
                     </div>
                 </div>
