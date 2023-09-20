@@ -1,4 +1,4 @@
-[redirects]]
+[redirects]
   from = "/portfolio/*"
   to = "/index.html"
   status = 200
