@@ -26,7 +26,7 @@ const Projects = () => {
                 Apex Legends Player Stat Tracker
               </span>
               <div className="pt-8 text-center">
-                <a href="https://apexlegendstracker.netlify.app/">
+                <a target="_blank" href="https://apexlegendstracker.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white hover:bg-black hover:bg-opacity-80 hover:text-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
@@ -52,7 +52,7 @@ const Projects = () => {
                 Weather App
               </span>
               <div className="pt-8 text-center">
-                <a href="https://weatheapponline.netlify.app">
+                <a target="_blank" href="https://weatheapponline.netlify.app">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white hover:bg-black hover:bg-opacity-80 hover:text-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
