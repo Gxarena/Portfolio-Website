@@ -14,6 +14,15 @@
   }
 }
 
+@layer base {
+  .font-outline-2 {
+    -webkit-text-stroke: 0.5px black;
+  }
+  .font-outline-4 {
+    -webkit-text-stroke: 4px black;
+  }
+}
+
 .content-div {
   background-repeat: no-repeat;
   background-size: cover;
